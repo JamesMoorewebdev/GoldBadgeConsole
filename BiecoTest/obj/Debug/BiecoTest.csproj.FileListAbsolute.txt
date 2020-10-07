@@ -1,0 +1,17 @@
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\BiecoTest.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\BiecoTest.pdb
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\_02_Beico.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\_02_Beico.pdb
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\_02_Beico.exe.config
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\obj\Debug\BiecoTest.csprojAssemblyReference.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\obj\Debug\BiecoTest.csproj.CoreCompileInputs.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\obj\Debug\BiecoTest.csproj.CopyComplete
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\obj\Debug\BiecoTest.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\BiecoTest\obj\Debug\BiecoTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\James Moore\Desktop\FinalGoldChalls\_03_Employees\bin\Debug\_03_Employees.exe.config
+C:\Users\James Moore\Desktop\FinalGoldChalls\_03_Employees\bin\Debug\_03_Employees.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\_03_Employees\bin\Debug\_03_Employees.pdb
+C:\Users\James Moore\Desktop\FinalGoldChalls\_03_Employees\obj\Debug\_03_Employees.csprojAssemblyReference.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\_03_Employees\obj\Debug\_03_Employees.csproj.CoreCompileInputs.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\_03_Employees\obj\Debug\_03_Employees.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\_03_Employees\obj\Debug\_03_Employees.pdb

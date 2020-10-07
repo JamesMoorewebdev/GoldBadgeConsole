@@ -1,0 +1,17 @@
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\KomoTest.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\KomoTest.pdb
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\FinalGoldChalls.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\FinalGoldChalls.pdb
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\FinalGoldChalls.exe.config
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\obj\Debug\KomoTest.csprojAssemblyReference.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\obj\Debug\KomoTest.csproj.CoreCompileInputs.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\obj\Debug\KomoTest.csproj.CopyComplete
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\obj\Debug\KomoTest.dll
+C:\Users\James Moore\Desktop\FinalGoldChalls\KomoTest\obj\Debug\KomoTest.pdb

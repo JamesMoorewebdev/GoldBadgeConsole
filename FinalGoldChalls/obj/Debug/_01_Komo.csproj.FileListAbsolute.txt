@@ -1,0 +1,7 @@
+C:\Users\James Moore\Desktop\FinalGoldChalls\FinalGoldChalls\bin\Debug\FinalGoldChalls.exe.config
+C:\Users\James Moore\Desktop\FinalGoldChalls\FinalGoldChalls\bin\Debug\FinalGoldChalls.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\FinalGoldChalls\bin\Debug\FinalGoldChalls.pdb
+C:\Users\James Moore\Desktop\FinalGoldChalls\FinalGoldChalls\obj\Debug\_01_Komo.csprojAssemblyReference.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\FinalGoldChalls\obj\Debug\_01_Komo.csproj.CoreCompileInputs.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\FinalGoldChalls\obj\Debug\FinalGoldChalls.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\FinalGoldChalls\obj\Debug\FinalGoldChalls.pdb

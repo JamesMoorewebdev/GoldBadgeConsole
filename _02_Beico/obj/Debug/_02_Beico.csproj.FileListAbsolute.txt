@@ -1,0 +1,7 @@
+C:\Users\James Moore\Desktop\FinalGoldChalls\_02_Beico\bin\Debug\_02_Beico.exe.config
+C:\Users\James Moore\Desktop\FinalGoldChalls\_02_Beico\bin\Debug\_02_Beico.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\_02_Beico\bin\Debug\_02_Beico.pdb
+C:\Users\James Moore\Desktop\FinalGoldChalls\_02_Beico\obj\Debug\_02_Beico.csprojAssemblyReference.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\_02_Beico\obj\Debug\_02_Beico.csproj.CoreCompileInputs.cache
+C:\Users\James Moore\Desktop\FinalGoldChalls\_02_Beico\obj\Debug\_02_Beico.exe
+C:\Users\James Moore\Desktop\FinalGoldChalls\_02_Beico\obj\Debug\_02_Beico.pdb

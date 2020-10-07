@@ -1,0 +1,6 @@
+C:\Users\James Moore\source\repos\_01_Komo\_01_Komo\bin\Debug\_01_Komo.exe.config
+C:\Users\James Moore\source\repos\_01_Komo\_01_Komo\bin\Debug\_01_Komo.exe
+C:\Users\James Moore\source\repos\_01_Komo\_01_Komo\bin\Debug\_01_Komo.pdb
+C:\Users\James Moore\source\repos\_01_Komo\_01_Komo\obj\Debug\_01_Komo.csproj.CoreCompileInputs.cache
+C:\Users\James Moore\source\repos\_01_Komo\_01_Komo\obj\Debug\_01_Komo.exe
+C:\Users\James Moore\source\repos\_01_Komo\_01_Komo\obj\Debug\_01_Komo.pdb
